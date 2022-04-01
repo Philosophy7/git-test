@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("你好");
         System.out.println("hot-fix branch");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
